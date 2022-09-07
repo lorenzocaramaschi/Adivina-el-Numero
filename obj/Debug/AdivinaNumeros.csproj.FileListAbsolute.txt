@@ -1,0 +1,8 @@
+C:\Users\pc\Desktop\Cursos\Cursos Random\C#\AdivinaNumeros\AdivinaNumeros\bin\Debug\AdivinaNumeros.exe.config
+C:\Users\pc\Desktop\Cursos\Cursos Random\C#\AdivinaNumeros\AdivinaNumeros\bin\Debug\AdivinaNumeros.exe
+C:\Users\pc\Desktop\Cursos\Cursos Random\C#\AdivinaNumeros\AdivinaNumeros\bin\Debug\AdivinaNumeros.pdb
+C:\Users\pc\Desktop\Cursos\Cursos Random\C#\AdivinaNumeros\AdivinaNumeros\obj\Debug\AdivinaNumeros.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Cursos\Cursos Random\C#\AdivinaNumeros\AdivinaNumeros\obj\Debug\AdivinaNumeros.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\Cursos\Cursos Random\C#\AdivinaNumeros\AdivinaNumeros\obj\Debug\AdivinaNumeros.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Cursos\Cursos Random\C#\AdivinaNumeros\AdivinaNumeros\obj\Debug\AdivinaNumeros.exe
+C:\Users\pc\Desktop\Cursos\Cursos Random\C#\AdivinaNumeros\AdivinaNumeros\obj\Debug\AdivinaNumeros.pdb

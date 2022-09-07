@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adivina el numero", "Adivina el numero\Adivina el numero.csproj", "{7FF441C1-1522-4DE8-9BAD-79360093D070}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FF441C1-1522-4DE8-9BAD-79360093D070}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FF441C1-1522-4DE8-9BAD-79360093D070}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FF441C1-1522-4DE8-9BAD-79360093D070}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FF441C1-1522-4DE8-9BAD-79360093D070}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66624B6E-51D4-41DD-B9E0-31865368BDF9}
+	EndGlobalSection
+EndGlobal
